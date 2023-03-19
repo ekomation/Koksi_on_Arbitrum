@@ -18,3 +18,4 @@ Decimal: 18;
 # Koksi
 
 # Koksi_on_Arbitrum
+# Koksi_on_Arbitrum
